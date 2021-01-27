@@ -1,5 +1,5 @@
 # Occupancy-Detection
-In this project, we tried to estimate the occupancy status in a room. We coded the project in python programming language. We used Seaborn, Matplotlib, Numpy, Pandas and scikit-learn libraries in the project.< a href ="https://colab.research.google.com/github/umitsarioz/OccupancyDetection/blob/main/Ceng313_Midterm_Project_2021.ipynb"> ![In Colab](https://colab.research.google.com/assets/colab-badge.svg) </a>
+In this project, we tried to estimate the occupancy status in a room. We coded the project in python programming language. We used Seaborn, Matplotlib, Numpy, Pandas and scikit-learn libraries in the project.<a href ="https://colab.research.google.com/github/umitsarioz/OccupancyDetection/blob/main/Ceng313_Midterm_Project_2021.ipynb" > ![In Colab](https://colab.research.google.com/assets/colab-badge.svg) </a>
 If you run on Google colab, don't forget to add dataset file in colab. 
 Versions :
 <table>
