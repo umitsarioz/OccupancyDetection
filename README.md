@@ -1,2 +1,29 @@
-# OccupancyDetection
-This project was coded for Introduction to DataScience Course in 2021. My teammates were Ceren ALTINKESER and Orhan KAPLAN. Purpose of project is to implement classification task. We tried to predict occupancy status in a room by helping with Neural Networks. Although it is a simple project, it was a good start-up project for us as an introduction to data science.r us .
+# Occupancy-Detection
+In this project, we tried to estimate the occupancy status in a room. We coded the project in python programming language. We used Seaborn, Matplotlib, Numpy, Pandas and scikit-learn libraries in the project.
+Versions :
+<table>
+<tr>  
+  <td> Python </td>
+  <td> 3.5 </td>
+  </tr>
+  <tr>
+    <td> Matplotlib </td>
+    <td> 3.3.3 </td>
+  </tr>
+  <tr>
+    <td> Seaborn </td>
+    <td> 0.11.1 </td>
+  </tr>
+  <tr>
+    <td> NumPy</td>
+    <td> 1.19.5 </td>
+  </tr>
+  <tr>
+    <td> Pandas</td>
+    <td> 1.2.1 </td>
+  </tr>
+  <tr>
+    <td> Scikit-Learn </td>
+    <td> 0.24.1 </td>
+   </tr>
+</table>
