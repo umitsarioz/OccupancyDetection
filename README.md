@@ -30,3 +30,4 @@ In this project, we tried to estimate the occupancy status in a room. We coded t
      </tr>
   </table>
 
+Also you can watch video project <a href="https://www.youtube.com/watch?v=6bY2AHdod1o&t=214s&ab_channel=%C3%9CmitSar%C4%B1%C3%B6z"> here(Click).</a>
